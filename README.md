@@ -33,7 +33,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### 🤝🏻 &nbsp;Connect Me
+### 🤝 &nbsp;Connect Me
 
 <p align="center">
 <a href="https://www.bilal192rb.com"><img src="https://img.shields.io/badge/-bilal192rb.com-4285F4?style=flat&logo=Google-Chrome&logoColor=white"/></a>
